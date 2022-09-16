@@ -3,7 +3,7 @@
 	"name": "樱燃日记",
 	"lang": "zh-Hans",
 	"description": "提供有关日本工作、学习、生活的新鲜情报",
-	"start_url": "https://sakuramoe.cn/",
+	"start_url": "https://sakura-moe.github.io/",
 	"background_color": "#00aae7",
 	"theme_color": "#00aae7",
 	"dir": "ltr",
